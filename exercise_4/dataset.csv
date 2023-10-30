@@ -1,0 +1,6 @@
+internal,external,class
+20,30,pass
+10,5,fail
+20,40,pass
+20,45,pass
+20,10,fail
